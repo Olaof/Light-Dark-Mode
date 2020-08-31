@@ -24,7 +24,7 @@ function darkMode() {
 }
 
 // Light Mode Styles
-function LightMode() {
+function lightMode() {
     nav.style.backgroundColor = 'rgb(255 255 255 / 50%)';
     textBox.style.backgroundColor = 'rgb(0 0 0 / 50%)';
     toggleIcon.children[0].textContent = 'Light Mode';
